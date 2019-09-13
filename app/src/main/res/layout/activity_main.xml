@@ -44,4 +44,12 @@
         tools:layout_editor_absoluteX="119dp"
         tools:layout_editor_absoluteY="344dp" />
 
+    <Button
+        android:id="@+id/fragmentBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fragment"
+        tools:layout_editor_absoluteX="116dp"
+        tools:layout_editor_absoluteY="432dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
